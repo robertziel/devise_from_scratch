@@ -9,7 +9,7 @@ gem 'rails', '~> 5.2.3'
 gem 'pg', '>= 0.18', '< 2.0'
 
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'puma', '~> 4.0.1'
+gem 'puma', '~> 4.3.11'
 
 # Frontend
 
